@@ -20,7 +20,7 @@ export default function Component() {
           <nav className="hidden md:flex gap-4 lg:gap-6">
             <Link
               className="text-sm font-medium hover:underline underline-offset-4"
-              href="#"
+              href="/details"
             >
               Destinations
             </Link>
@@ -92,7 +92,10 @@ export default function Component() {
             </div>
             <div className="grid gap-6 md:grid-cols-2 xl:grid-cols-4">
               <Card>
-                <Link className="absolute inset-0 z-10" href="#" />
+                <Link
+                  className="absolute inset-0 z-10"
+                  href="https://www.google.co.jp/"
+                />
                 <img
                   alt="Image"
                   className="aspect-16/9 overflow-hidden object-cover rounded-t-lg"
