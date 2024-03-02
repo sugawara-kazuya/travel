@@ -100,7 +100,7 @@ export default function Component() {
                   alt="Image"
                   className="aspect-16/9 overflow-hidden object-cover rounded-t-lg"
                   height={225}
-                  src="/placeholder.svg"
+                  src="https://travel-app-photos.s3.ap-northeast-1.amazonaws.com/home/tokyo2.jpeg"
                   width={400}
                 />
                 <CardContent className="p-4">
@@ -116,7 +116,7 @@ export default function Component() {
                   alt="Image"
                   className="aspect-16/9 overflow-hidden object-cover rounded-t-lg"
                   height={225}
-                  src="/placeholder.svg"
+                  src="https://travel-app-photos.s3.ap-northeast-1.amazonaws.com/home/kyoto.jpeg"
                   width={400}
                 />
                 <CardContent className="p-4">
@@ -132,7 +132,7 @@ export default function Component() {
                   alt="Image"
                   className="aspect-16/9 overflow-hidden object-cover rounded-t-lg"
                   height={225}
-                  src="/placeholder.svg"
+                  src="https://travel-app-photos.s3.ap-northeast-1.amazonaws.com/home/oosaka.jpeg"
                   width={400}
                 />
                 <CardContent className="p-4">
@@ -148,7 +148,7 @@ export default function Component() {
                   alt="Image"
                   className="aspect-16/9 overflow-hidden object-cover rounded-t-lg"
                   height={225}
-                  src="/placeholder.svg"
+                  src="https://travel-app-photos.s3.ap-northeast-1.amazonaws.com/home/hiroshima.jpeg"
                   width={400}
                 />
                 <CardContent className="p-4">
@@ -178,7 +178,7 @@ export default function Component() {
                   alt="Image"
                   className="aspect-16/9 overflow-hidden object-cover rounded-t-lg"
                   height={225}
-                  src="/placeholder.svg"
+                  src="https://travel-app-photos.s3.ap-northeast-1.amazonaws.com/home/reja.jpeg"
                   width={400}
                 />
                 <CardContent className="p-4">
@@ -202,7 +202,7 @@ export default function Component() {
                   alt="Image"
                   className="aspect-16/9 overflow-hidden object-cover rounded-t-lg"
                   height={225}
-                  src="/placeholder.svg"
+                  src="https://travel-app-photos.s3.ap-northeast-1.amazonaws.com/home/hujisan.jpeg"
                   width={400}
                 />
                 <CardContent className="p-4">
